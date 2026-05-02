@@ -78,8 +78,8 @@ export default function Footer() {
               VISIT
             </h4>
             <div className="mt-4 text-sm leading-relaxed opacity-45">
-              <p>42 Via dei Tribunali</p>
-              <p>Naples, NA 80138</p>
+              <p>4/758 Govindhappa naickar street</p>
+              <p>porur,80138</p>
               <p className="mt-2">Tue–Sun, 5pm – 11pm</p>
             </div>
           </div>
@@ -93,8 +93,8 @@ export default function Footer() {
               CONTACT
             </h4>
             <div className="mt-4 text-sm leading-relaxed opacity-45">
-              <p>+39 081 123 4567</p>
-              <p>ciao@chickopizza.com</p>
+              <p>+91 8072884429</p>
+              <p>naandhandaleo249@gmail.com</p>
             </div>
           </div>
 
